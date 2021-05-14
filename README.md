@@ -13,12 +13,18 @@
 - I specialize in Data Analytics & Data Visualization.
 - Contact me on: vanshika.shukla222@gmail.com
 
-Connect with me at:
+<!-- Actual text -->
 
-<p align='center'>
-<a href="https://twitter.com/Vanshika__S"><img height="30" src="https://github.com/Vanshika0729/Vanshika0729/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/vanshika-shukla/"><img height="30" src="https://github.com/Vanshika0729/Vanshika0729/blob/main/icon/linkedin.png?raw=true"></a>
-</p>
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/Vanshika0729/Vanshika0729/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/Vanshika__S
+[2]: https://www.linkedin.com/in/vanshika-shukla/
 
 [![Vanshika's github stats](https://github-readme-stats.vercel.app/api?username=Vanshika0729)](https://github.com/Vanshika0729/github-readme-stats)<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika0729&layout=compact&hide=html" alt="Vanshika0729" />
