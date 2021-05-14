@@ -15,8 +15,10 @@
 
 Connect with me at:
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/vanshika-shukla/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://vanshikashukla.medium.com/) 
-[<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/vanshika.shukla.75/)
+<ul class="icons">
+<li><a href="https://twitter.com/Vanshika__S"class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+<li><a href="https://www.facebook.com/vanshika.shukla.75"class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+<li><a href="https://www.linkedin.com/in/vanshika-shukla/"class="icon brands fa fa-linkedin-square" style="font-size:24px"><span class="label">LinkedIn</span></a></li>
+ </ul>
 
 [![Vanshika's github stats](https://github-readme-stats.vercel.app/api?username=Vanshika0729)](https://github.com/Vanshika0729/github-readme-stats)<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika0729&layout=compact&hide=html" alt="Vanshika0729" />
