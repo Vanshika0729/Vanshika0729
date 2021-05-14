@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Vanshika
-<h3 align="center">I specialize in Data Analytics, Data Visualize, Machine Learning, and Statistical analysis</h3>
+<h3 align="center">I specialize in Data Analytics, Data Visualization, Machine Learning, and Statistical analysis</h3>
 
 <img src="https://komarev.com/ghpvc/?username=Vanshika0729" alt="Vanshika0729" />
   
@@ -9,8 +9,8 @@
 
 
 - I work as an Anaplan Consultant at Enquero Global
-- I hold Artificial Intelligence and Deep learning specialization from Internsational School of Engineering
-- I specialize in Data Analytics & Data Visualization.
+- I hold an Artificial Intelligence and Deep learning specialization from Internsational School of Engineering
+- I specialize in Data Analytics, Data Visualization and Machine Learning.
 - Contact me on: vanshika.shukla222@gmail.com
 
 Connect with me at:
