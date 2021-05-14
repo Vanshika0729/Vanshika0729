@@ -13,7 +13,7 @@
 - I specialize in Data Analytics, Data Visualization and Machine Learning.
 - Contact me on: vanshika.shukla222@gmail.com
 
-Connect with me at:
+Connect with me on:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/vanshika-shukla/)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://vanshikashukla.medium.com/) 
